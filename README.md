@@ -1,4 +1,11 @@
-## Hi there 👋
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=VaAndCob&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaAndCob&layout=compact&theme=dark" alt="Top Languages" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=VaAndCob&theme=dark" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 <!--
 **VaAndCob/VaAndCob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
