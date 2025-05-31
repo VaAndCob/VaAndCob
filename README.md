@@ -2,11 +2,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VaAndCob&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaAndCob&layout=compact&theme=dark" alt="Top Languages" width="400" />
-  <img src="https://streak-stats.demolab.com/?user=VaAndCob&theme=dark" alt="GitHub Streak" width="500" />
 </p>
 
 <!--
