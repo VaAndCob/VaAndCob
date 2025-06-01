@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 📻 My music web [VibeTiime](https://vibetime.pages.dev/)
+
+🎶🎵🎼🎧📻🎷🪗🎸🎹🎺🎻🪕🥁🪘🪇 My music web [VibeTiime](https://vibetime.pages.dev/)
