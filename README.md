@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎶🎵🎼🎧📻🎷🪗🎸🎹🎺🎻🪕🥁 My music web [VibeTiime](https://vibetime.pages.dev/)
+🎶🎵🎼🎧📻🎷🪗🎸🎹🎺🎻🪕🥁 My music web [VibeTime](https://vibetime.pages.dev/)
