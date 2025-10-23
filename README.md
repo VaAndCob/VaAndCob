@@ -1,4 +1,4 @@
-## 📊 GitHub Stats
+## 📊 GitHub Stats ![Mona Loading Dark](https://github.com/VaAndCob/VaAndCob/blob/main/mona.gif)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VaAndCob&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
