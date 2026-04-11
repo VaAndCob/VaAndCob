@@ -1,8 +1,9 @@
 ## 📊 GitHub Stats ![Mona Loading Dark](https://github.com/VaAndCob/webpage/blob/main/src/power.gif)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaAndCob&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaAndCob&layout=compact&theme=dark" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=VaAndCob&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaAndCob&layout=compact&theme=dark&cache_seconds=86400" />
+
 </p>
 
 <!--
